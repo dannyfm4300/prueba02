@@ -1,0 +1,6 @@
+E:\CursoBootCamp\MetodoConstructor\MetodoConstructor\bin\Debug\MetodoConstructor.exe.config
+E:\CursoBootCamp\MetodoConstructor\MetodoConstructor\bin\Debug\MetodoConstructor.exe
+E:\CursoBootCamp\MetodoConstructor\MetodoConstructor\bin\Debug\MetodoConstructor.pdb
+E:\CursoBootCamp\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.csprojResolveAssemblyReference.cache
+E:\CursoBootCamp\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.exe
+E:\CursoBootCamp\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.pdb
