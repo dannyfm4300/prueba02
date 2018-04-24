@@ -4,3 +4,9 @@ E:\CursoBootCamp\MetodoConstructor\MetodoConstructor\bin\Debug\MetodoConstructor
 E:\CursoBootCamp\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.csprojResolveAssemblyReference.cache
 E:\CursoBootCamp\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.exe
 E:\CursoBootCamp\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.pdb
+C:\Users\Danny\Documents\GitHub\prueba02\MetodoConstructor\MetodoConstructor\bin\Debug\MetodoConstructor.exe.config
+C:\Users\Danny\Documents\GitHub\prueba02\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.exe
+C:\Users\Danny\Documents\GitHub\prueba02\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.pdb
+C:\Users\Danny\Documents\GitHub\prueba02\MetodoConstructor\MetodoConstructor\bin\Debug\MetodoConstructor.exe
+C:\Users\Danny\Documents\GitHub\prueba02\MetodoConstructor\MetodoConstructor\bin\Debug\MetodoConstructor.pdb
+C:\Users\Danny\Documents\GitHub\prueba02\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.csprojResolveAssemblyReference.cache

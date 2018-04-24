@@ -27,7 +27,7 @@ namespace MetodoConstructor
         {
             ancho = 20;
             altura = 10;
-            color = "verde";
+            color = "Gris";
         }
 
         public void Mostrar()
